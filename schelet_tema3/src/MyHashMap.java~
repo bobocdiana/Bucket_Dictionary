@@ -1,0 +1,4 @@
+
+public interface MyHashMap<K,V> {
+
+}
